@@ -96,12 +96,24 @@ Para adicionar a sua config/script veja [CONTRIBUTING.md](https://github.com/car
 
 <img src="https://gitlab.com/nwildner/dotfiles/-/raw/master/Screenshot.png" width="1365">
 
+## Usuário: hiukky
+
+### Tema: Flate
+
+#### WM: Sway
+
+#### [config](https://github.com/hiukky/dotfiles)
+
+<img src="https://github.com/hiukky/dotfiles/raw/master/.assets/setup.png">
+
 ## Scripts
 
 ### [termDraw](https://github.com/fffranks/dotfiles/blob/master/scripts/termDraw.sh)
+
 Desenhe um terminal na tela (alacritty é o padrão)
 ![aladraw.gif](https://github.com/carlosdss22/unixwmbr/blob/master/aladraw.gif)
 
 ### [taskbar](https://github.com/odilonscoelho/taskbar)
+
 labels de janelas para polybar - bspwm/i3wm
 ![taskbar.img](https://github.com/odilonscoelho/taskbar/blob/master/print.jpg)
