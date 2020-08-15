@@ -24,13 +24,13 @@ Para:
 <div align="center">
   <a href="{Link referencia para o seu dotfiles.}">
     <img
-      alt="{seu nome}"
+      alt="Dotfiles"
       src="https://img.shields.io/badge/config-{seu nome}-%232c3e50?style=for-the-badge"
     />
   </a>
   <a href="{Link referencia para WM.}">
     <img
-      alt="{seu nome}"
+      alt="WM"
       src="https://img.shields.io/badge/wm-{nome da wm}-%235352ed?style=for-the-badge"
     />
   </a>
@@ -41,7 +41,7 @@ Para:
     />
   </a>
   <br /><br />
-  <img alt="{seu nome}" src="{Link para captura de tela / Gif}" />
+  <img alt="Screenshot" src="{Link para captura de tela / Gif}" />
 </div>
 ```
 
@@ -51,7 +51,7 @@ Para:
 <div align="center">
   <a href="{Link referencia para o seu script.}">
     <img
-      alt="{nome do script}"
+      alt="Script"
       src="https://img.shields.io/badge/{nome do script}-%2322252f?style=for-the-badge"
     />
   </a>
