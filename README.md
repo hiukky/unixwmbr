@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://github.com/jyeno/dwm">
-    <img alt="Script" src="https://img.shields.io/badge/termDraw-%2322252f?style=for-the-badge" />
+    <img alt="Script" src="https://img.shields.io/badge/name-termDraw-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
   <p>Desenhe um terminal na tela (alacritty é o padrão).</p>
@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://github.com/jyeno/dwm">
-    <img alt="Bar" src="https://img.shields.io/badge/taskbar-%2322252f?style=for-the-badge" />
+    <img alt="Bar" src="https://img.shields.io/badge/name-taskbar-%2322252f?style=for-the-badge" />
   </a>
   <br/><br/>
   <p>Taskbars.</p>

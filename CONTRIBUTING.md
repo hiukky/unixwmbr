@@ -6,10 +6,10 @@
 
 <h4>Examplo:</h4>
 
-Para adicionar o link do repositorio dotfiles, altere o exemplo abaixo:
+Para adicionar o link do repositório dotfiles, altere o exemplo abaixo:
 
 ```html
-<a href="{Link referencia para o seu dotfiles.}" />
+<a href="{Link referência para o seu dotfiles.}" />
 ```
 
 Para:
@@ -22,22 +22,22 @@ Para:
 
 ```html
 <div align="center">
-  <a href="{Link referencia para o seu dotfiles.}">
+  <a href="{Link referência para o seu dotfiles.}">
     <img
       alt="Dotfiles"
       src="https://img.shields.io/badge/config-{seu nome}-%232c3e50?style=for-the-badge"
     />
   </a>
-  <a href="{Link referencia para WM.}">
+  <a href="{Link referência para WM.}">
     <img
       alt="WM"
       src="https://img.shields.io/badge/wm-{nome da wm}-%235352ed?style=for-the-badge"
     />
   </a>
-  <a href="{Link referencia para o thema.}">
+  <a href="{Link referência para o tema.}">
     <img
       alt="Theme"
-      src="https://img.shields.io/badge/theme-{nome do thema}-%232ed573?style=for-the-badge"
+      src="https://img.shields.io/badge/theme-{nome do tema}-%232ed573?style=for-the-badge"
     />
   </a>
   <br /><br />
@@ -49,10 +49,10 @@ Para:
 
 ```html
 <div align="center">
-  <a href="{Link referencia para o seu script.}">
+  <a href="{Link referência para o seu script.}">
     <img
       alt="Script"
-      src="https://img.shields.io/badge/{nome do script}-%2322252f?style=for-the-badge"
+      src="https://img.shields.io/badge/name-{nome do script}-%2322252f?style=for-the-badge"
     />
   </a>
   <br /><br />
