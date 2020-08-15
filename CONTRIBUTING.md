@@ -1,9 +1,22 @@
 <h1 align="center">Contribution</h1>
 
 <p>
-Você pode contribuir corrigindo algum erro ou adicionando uma amostra da sua config/script.
-Para adicionar uma amostra da sua config você pode fazer um pull request com o seguinte template.
+    Para adicionar uma amostra da sua config você pode fazer um pull request utilizando utilizando os templates abaixo. O processo é bem simples, basta apenas copiar e colar o template desejado no final da sessão <b>dotfiles | scripts | bars</b> no arquivo <a href="https://github.com/hiukky/unixwmbr/blob/master/README.md">README.md</a> e alterar os locais indentificados com <b>{ instrução }</b> pelo valor correto.
 </p>
+
+<h4>Examplo:</h4>
+
+Para adicionar o link do repositorio dotfiles, altere o exemplo abaixo:
+
+```html
+<a href="{Link referencia para o seu dotfiles.}" />
+```
+
+Para:
+
+```html
+<a href="https://github.com/dotfiles" />
+```
 
 <h3 align="center">Template Dotfiles</h3>
 
